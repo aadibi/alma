@@ -1,0 +1,31 @@
+.clear{clear:both;}
+
+.work-image-holder {
+	float:left;
+	width:630px;
+	height:333px;
+	margin-top:-10px;
+	margin-bottom:20px;
+	background:url(loading.gif) 50% 50% no-repeat;
+	display:inline;
+}	
+
+.image-3-loader {
+	float:left;
+	width:280px;
+	height:185px;
+	margin-top:-10px;
+	margin-bottom:20px;
+	background:url(loading.gif) 50% 50% no-repeat;
+	display:inline;
+}	
+
+.blog-image-holder {
+	float:right;
+	width:301px;
+	height:181px;
+	margin-left:30px;
+	margin-bottom:20px;
+	background:url(loading.gif) 50% 50% no-repeat;
+	display:inline;
+}	
